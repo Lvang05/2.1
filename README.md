@@ -1,16 +1,6 @@
 
-# Project Title
+# 2.1 Assignment
 
-A brief description of your project.
+Assignment for HTML
 
-## Installation
-
-Instruction for installing the project.
-
-## Usage
-
-Instructions for using the project.
-
-## Constributing 
-
-Instructions for contributing to the project.
+## Website of My Top Ten Favoirte Colors
